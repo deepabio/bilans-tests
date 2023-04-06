@@ -1,5 +1,6 @@
 # bilans-tests
 
+- [001](bilans/001.md)
 - [002](bilans/002.md)
 - [003](bilans/003.md)
 - [004](bilans/004.md)
@@ -219,10 +220,5 @@
 - [217](bilans/217.md)
 - [219](bilans/219.md)
 - [222](bilans/222.md)
+- [223](bilans/223.md)
 
-# News
-
-## 2022/12/25
-
-Les bilans ont étés migrés sur ce site pour être mieux affichés
-Le bilan 001 a été supprimé car duplicata du bilan 001
