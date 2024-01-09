@@ -1,3 +1,2 @@
-# bilans-tests
-
-- [Exemple Thyrotoxicose à T4](bilans/03a5c430-fac7-4e93-9a2b-1432d1aa8afe.prescr.md)
+- [Thyrotoxicose à T4](bilans/03a5c430-fac7-4e93-9a2b-1432d1aa8afe.md)
+- [Hyperkaliémie](bilans/1ab48b65-4fbb-4b53-a78c-221f788539ab.md)
