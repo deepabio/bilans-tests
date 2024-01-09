@@ -1,0 +1,34 @@
+RES|Hématies : |NF_B(1)|N|3.94|T/L|3,90|5,20|N|F|3.94|Millions/mm³|3,90|5,20
+RES|Hémoglobine  : |NF_B(2)|N|10.5|g/dL|11,5|15,1|L|F||||
+RES|Hématocrite  : |NF_B(3)|N|33.3|%|34,4|44,6|L|F||||
+RES|V.G.M.  : |NF_B(4)|N|84.5|fL|75,0|96,0|N|F||||
+RES|T.C.M.H.  : |NF_B(5)|N|26.6|pg|24,4|32,6|N|F||||
+RES|C.C.M.H.  : |NF_B(6)|N|31.5|g/dL|31,9|35,8|L|F||||
+RES|Indice Distribution GR : |NF_B(7)|N|16.2|%|12,3|17,7|N|F||||
+RES|Leucocytes : |NF_B(9)|N|12.4|G/L|3,8|11,4|H|F|12400|/mm3|3800|11400
+RES|Polynucléaires neutrophiles  : |NF_B(10)|N|54.6|%|||N|F||||
+RES|soit PNN : |NF_B(11)|N|6.77|G/L|1,70|7,50|N|F|6770|/mm3|1700|7500
+RES|Polynucléaires éosinophiles  : |NF_B(12)|N|1.0|%|||N|F||||
+RES|soit EO : |NF_B(13)|N|0.12|G/L||0,60|N|F|120|/mm3||600
+RES|Polynucléaires basophiles  : |NF_B(14)|N|0.8|%|||N|F||||
+RES|soit BASO : |NF_B(15)|N|0.10|G/L||0,09|H|F|100|/mm3||90
+RES|Lymphocytes  : |NF_B(16)|N|36.9|%|||N|F||||
+RES|soit LYMPHO : |NF_B(17)|N|4.58|G/L|1,20|4,00|H|F|4580|/mm3|1200|4000
+RES|Monocytes  : |NF_B(18)|N|6.7|%|||N|F||||
+RES|soit MONO : |NF_B(19)|N|0.83|G/L|0,20|0,70|H|F|830|/mm3|200|700
+RES|Plaquettes : |PLA_B(1)|N|607|G/L|180|450|H|F|607000|/mm3|180000|450000
+RES|Volume Plaquettaire Moyen : |PLA_B(2)|N|7.4|fL|7,9|10,8|L|F||||
+RES|Sodium plasmatique : |NAP_H(1)|N|135|mmol/L|136|145|L|F||||
+RES|Potassium plasmatique : |KP_H(1)|N|3.5|mmol/L|3,4|4,5|N|F||||
+RES|Chlore plasmatique : |CLP_H(1)|N|99|mmol/L|98|107|N|F||||
+RES|Réserve alcaline plasmatique : |RAP_H(1)|N|25|mmol/L|22|29|N|F||||
+RES|Protéines totales plasmatiques : |PROTP_H(1)|N|69|g/L|64|83|N|F||||
+RES|Trou anionique plasmatique : |TROUP_H(1)|N|14.5|mmol/L|12,0|16,0|N|F||||
+RES|Créatinine : |CREA_H(1)|N|78.0|µmol/L|45,0|84,0|N|F|8.8|mg/L|5,1|9,5
+RES|Estimation du DFG selon la formule CKD-EPI : |CKDEPI_H(1)|N|65.1|mL/min/1,73m2|90,0||L|F||||
+RES|Interprétation du DFG selon la formule CKD-EPI : |CKDEPI_H(1.1)|A|Le DFGe est considéré comme légèrement diminué entre 60-90 ml/min/1,73m². L'insuffisance rénale est retenue pour des valeurs inférieures à 60 ml/min/1,73m² (HAS 2021)||||N|F||||
+RES|CRP (Protéine C Réactive) : |CRP_H(1)|N|23.5|mg/L||5,0|H|F||||
+RES|TSH : |TSH_H(1)|N|0.202|µUI/mL|0,270|4,200|L|F||||
+RES|Commentaire : |TSH_H(1.1)|A|À partir de 65 ans, la valeur de référence haute de la TSH (en mUI/L) est définie comme étant égale à la décennie dâge du patient (HAS 2023)||||N|F||||
+RES|T4 libre (Thyroxine libre) : |T4L_H(1)|N|25.20|pmol/L|11,90|21,60|H|F|19.58|ng/L|9,25|16,78
+RES|T3 libre (Triiodothyronine libre) : |T3L_H(1)|N|3.49|pmol/L|3,10|6,80|N|F|2.27|ng/L|2,02|4,43
